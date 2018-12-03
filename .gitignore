@@ -1,0 +1,6 @@
+/.ipynb_checkpoints
+/Flickr8k_text
+/Flicker8k_Dataset
+*.pkl
+*.h5
+*.txt
